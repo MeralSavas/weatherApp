@@ -10,6 +10,10 @@ Project aims to create a Weather App.
 
 ![image](https://github.com/Sekunev/Weather_App_JQUER/blob/main/AnimationProject.gif)
 
+### Used in this project
+
+👉 I mastered javascript, jQuery, ajax, HTML, CSS features in this project. You can see the visual representation of the website above. 
+
 ## Project Skeleton
 
 ```
@@ -28,10 +32,6 @@ SOLUTION
 ├── weather.html
 └── weather.js
 ```
-
-### Used in this project
-
-👉 I mastered javascript, jQuery, ajax, HTML, CSS features in this project. You can see the visual representation of the website above.
 
 # <center> ⌛ Happy Coding ✍ </center>
 

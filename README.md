@@ -32,3 +32,6 @@ SOLUTION
 ### Used in this project
 
 👉 I mastered javascript, jQuery, ajax, HTML, CSS features in this project. You can see the visual representation of the website above.
+
+# <center> ⌛ Happy Coding ✍ </center>
+

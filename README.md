@@ -33,5 +33,3 @@ SOLUTION
 └── weather.js
 ```
 
-# <center> ⌛ Happy Coding ✍ </center>
-
